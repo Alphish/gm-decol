@@ -52,6 +52,7 @@
     {"id":{"name":"feather_Cimpli","path":"scripts/feather_Cimpli/feather_Cimpli.yy",},},
     {"id":{"name":"spr_CimpliLogo","path":"sprites/spr_CimpliLogo/spr_CimpliLogo.yy",},},
     {"id":{"name":"spr_DecolButton","path":"sprites/spr_DecolButton/spr_DecolButton.yy",},},
+    {"id":{"name":"spr_DecolHorizontalStripButton","path":"sprites/spr_DecolHorizontalStripButton/spr_DecolHorizontalStripButton.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
