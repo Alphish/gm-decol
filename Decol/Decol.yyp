@@ -14,6 +14,7 @@
     {"$GMFolder":"","%Name":"Alphish","folderPath":"folders/_Packages/Alphish.yy","name":"Alphish","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Cimpli","folderPath":"folders/_Packages/Alphish/Cimpli.yy","name":"Cimpli","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Decol","folderPath":"folders/_Packages/Alphish/Decol.yy","name":"Decol","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"ActionButton","folderPath":"folders/_Packages/Alphish/Decol/ActionButton.yy","name":"ActionButton","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Graphics","folderPath":"folders/_Packages/Alphish/Decol/Graphics.yy","name":"Graphics","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Styles","folderPath":"folders/_Packages/Alphish/Decol/Styles.yy","name":"Styles","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -28,8 +29,10 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"fnt_Button","path":"fonts/fnt_Button/fnt_Button.yy",},},
+    {"id":{"name":"par_DecolActionButton","path":"objects/par_DecolActionButton/par_DecolActionButton.yy",},},
     {"id":{"name":"par_DecolComponent","path":"objects/par_DecolComponent/par_DecolComponent.yy",},},
     {"id":{"name":"sys_Decol","path":"objects/sys_Decol/sys_Decol.yy",},},
+    {"id":{"name":"ui_DecolActionTextButton","path":"objects/ui_DecolActionTextButton/ui_DecolActionTextButton.yy",},},
     {"id":{"name":"ctor_CimpliCommand","path":"scripts/ctor_CimpliCommand/ctor_CimpliCommand.yy",},},
     {"id":{"name":"ctor_CimpliEventObserver","path":"scripts/ctor_CimpliEventObserver/ctor_CimpliEventObserver.yy",},},
     {"id":{"name":"ctor_CimpliEventSubject","path":"scripts/ctor_CimpliEventSubject/ctor_CimpliEventSubject.yy",},},
