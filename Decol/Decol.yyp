@@ -27,6 +27,7 @@
   "name":"Decol",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"fnt_Button","path":"fonts/fnt_Button/fnt_Button.yy",},},
     {"id":{"name":"par_DecolComponent","path":"objects/par_DecolComponent/par_DecolComponent.yy",},},
     {"id":{"name":"sys_Decol","path":"objects/sys_Decol/sys_Decol.yy",},},
     {"id":{"name":"ctor_CimpliCommand","path":"scripts/ctor_CimpliCommand/ctor_CimpliCommand.yy",},},
