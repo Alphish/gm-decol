@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"ctrl_Home",
+  "%Name":"obj_SizeTest",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ctrl_Home",
+  "name":"obj_SizeTest",
   "overriddenProperties":[],
   "parent":{
     "name":"Demo",
@@ -30,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_SizeTest",
+    "path":"sprites/spr_SizeTest/spr_SizeTest.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
