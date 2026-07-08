@@ -17,6 +17,7 @@
     {"$GMFolder":"","%Name":"ActionButton","folderPath":"folders/_Packages/Alphish/Decol/ActionButton.yy","name":"ActionButton","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Graphics","folderPath":"folders/_Packages/Alphish/Decol/Graphics.yy","name":"Graphics","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Styles","folderPath":"folders/_Packages/Alphish/Decol/Styles.yy","name":"Styles","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Demo","folderPath":"folders/Demo.yy","name":"Demo","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -27,12 +28,13 @@
   },
   "name":"Decol",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"fnt_Button","path":"fonts/fnt_Button/fnt_Button.yy",},},
+    {"id":{"name":"ctrl_Home","path":"objects/ctrl_Home/ctrl_Home.yy",},},
     {"id":{"name":"par_DecolActionButton","path":"objects/par_DecolActionButton/par_DecolActionButton.yy",},},
     {"id":{"name":"par_DecolComponent","path":"objects/par_DecolComponent/par_DecolComponent.yy",},},
     {"id":{"name":"sys_Decol","path":"objects/sys_Decol/sys_Decol.yy",},},
     {"id":{"name":"ui_DecolActionTextButton","path":"objects/ui_DecolActionTextButton/ui_DecolActionTextButton.yy",},},
+    {"id":{"name":"rm_Home","path":"rooms/rm_Home/rm_Home.yy",},},
     {"id":{"name":"ctor_CimpliCommand","path":"scripts/ctor_CimpliCommand/ctor_CimpliCommand.yy",},},
     {"id":{"name":"ctor_CimpliEventObserver","path":"scripts/ctor_CimpliEventObserver/ctor_CimpliEventObserver.yy",},},
     {"id":{"name":"ctor_CimpliEventSubject","path":"scripts/ctor_CimpliEventSubject/ctor_CimpliEventSubject.yy",},},
@@ -54,7 +56,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_Home","path":"rooms/rm_Home/rm_Home.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
