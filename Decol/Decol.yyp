@@ -57,6 +57,8 @@
     {"id":{"name":"spr_CimpliLogo","path":"sprites/spr_CimpliLogo/spr_CimpliLogo.yy",},},
     {"id":{"name":"spr_DecolButton","path":"sprites/spr_DecolButton/spr_DecolButton.yy",},},
     {"id":{"name":"spr_DecolHorizontalStripButton","path":"sprites/spr_DecolHorizontalStripButton/spr_DecolHorizontalStripButton.yy",},},
+    {"id":{"name":"spr_DecolPanel","path":"sprites/spr_DecolPanel/spr_DecolPanel.yy",},},
+    {"id":{"name":"spr_DecolRoundButton","path":"sprites/spr_DecolRoundButton/spr_DecolRoundButton.yy",},},
     {"id":{"name":"spr_SizeTest","path":"sprites/spr_SizeTest/spr_SizeTest.yy",},},
   ],
   "resourceType":"GMProject",
